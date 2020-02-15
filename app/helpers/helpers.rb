@@ -1,5 +1,7 @@
+require 'pry'
 class Helpers
-  def self.current_user
+  def self.current_user(hash)
+    
 
   end
 
